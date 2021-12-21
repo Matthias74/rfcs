@@ -30,12 +30,14 @@ Write a technical document with the proposal.
 
 You should use [our template to start the RFC](docs/template.md)
 
+Place the document in the [rfcs folder](rfcs/) on this repository.
+
 - Be precise and clear.
 - State what are you trying to solve and why.
 - Mention drawbacks (if any) of the proposed solution.
 - Mention alternative options and why you have discarded.
 
-Request for comments within your convoy leadership.
+Request for comments within your convoy leadership. Create a pull request in order to hold the discussion there.
 
 - Convoy leadership + Lead (and Staff if any) engineers within the convoy should decide if they approve the RFC or go to the tech governance.
 - The convoy leadership could also request for comments from outside their group if the proposal goes beyond their domain or expertise.
