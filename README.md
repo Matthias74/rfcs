@@ -12,17 +12,17 @@ The group, shall read the document and provide initial feedback, if the group co
 
 Each RFC should have an status, the status should be reflected on the title and it is the group proposing it, responsible of keeping it up to date.
 
-*WIP*: the team is writing the document, analysing alternatives and so on. No limit of time it can be in this status.
+**WIP**: the team is writing the document, analysing alternatives and so on. No limit of time it can be in this status.
 
-*PROPOSAL*: The convoy leadership is analysing it. They can suggest changes, which if very deep can make it back to WIP. If they discard it right away it goes to the DISCARDED status. If they decide that falls outside the convoy boundaries, they move it to DRAFT so the tech governance can check it. If they think that can be adopted right away, they move it to the status of ACCEPTED. The RFC can be only a limited amount of time in this status (2 weeks?), or less if there is an explicit answer from the leadership.
+**PROPOSAL**: The convoy leadership is analysing it. They can suggest changes, which if very deep can make it back to WIP. If they discard it right away it goes to the DISCARDED status. If they decide that falls outside the convoy boundaries, they move it to DRAFT so the tech governance can check it. If they think that can be adopted right away, they move it to the status of ACCEPTED. The RFC can be only a limited amount of time in this status (2 weeks?), or less if there is an explicit answer from the leadership.
 
-*DRAFT*: The tech gov is analysing it. They can suggest changes which if deep will move it to WIP. They can move it to DISCARDED, or to ACCEPTED. The RFC can be only a limited amount of time in this status (2 weeks?), or less if there is an explicit answer from the gov committee.
+**DRAFT**: The tech gov is analysing it. They can suggest changes which if deep will move it to WIP. They can move it to DISCARDED, or to ACCEPTED. The RFC can be only a limited amount of time in this status (2 weeks?), or less if there is an explicit answer from the gov committee.
 
-*ACCEPTED*: The RFC is published in all the required channels. It will stay there a limited amount of time in this status (2 weeks?), so all people in the company can raise their concerns, or start adopting it. If the convoy leadership or the gov committee think that the concerns raised are important, they can move it to DRAFT again. Otherwise it gets moved to STANDARD.
+**ACCEPTED**: The RFC is published in all the required channels. It will stay there a limited amount of time in this status (2 weeks?), so all people in the company can raise their concerns, or start adopting it. If the convoy leadership or the gov committee think that the concerns raised are important, they can move it to DRAFT again. Otherwise it gets moved to STANDARD.
 
-*STANDARD*: The RFC is adopted as a guideline for all teams for which it is relevant. The convoy leadership and the tech gov will pay attention to old and new developments to be aligned with it. It can only become DEPRECATED.
+**STANDARD**: The RFC is adopted as a guideline for all teams for which it is relevant. The convoy leadership and the tech gov will pay attention to old and new developments to be aligned with it. It can only become DEPRECATED.
 
-*DISCARDED*: The RFC is discarded and will not be adopted. It is kept for the record.
+**DISCARDED**: The RFC is discarded and will not be adopted. It is kept for the record.
 
 ## Workflow
 
